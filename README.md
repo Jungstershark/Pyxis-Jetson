@@ -12,3 +12,5 @@ Default to run object detection interference on Webcam using jetson and yolov8n.
 ```bash
 yolo detect predict model=yolov8n.pt source=0 show=True
 ```
+
+pip install supervision pillow

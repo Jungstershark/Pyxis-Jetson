@@ -1,3 +1,8 @@
 venv
 .python-version
 requirements-test.txt
+*.pt
+*.jpg
+*.jpeg
+*.png
+*.ts

@@ -14,3 +14,9 @@ yolo detect predict model=yolov8n.pt source=0 show=True
 ```
 
 pip install supervision pillow
+
+
+
+To run the current model
+pyenv activate myvenv
+python webcam_detection.py

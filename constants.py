@@ -4,7 +4,6 @@ NAMES_PROMPT = [
     
     # Person
     "person, human crew member standing or climbing",
-
-    # Ship Hull
-    "ship hull, vessel side, exterior hull of cargo ship"
+    # # Ship Hull
+    # "ship hull, vessel side, exterior hull of cargo ship"
 ]

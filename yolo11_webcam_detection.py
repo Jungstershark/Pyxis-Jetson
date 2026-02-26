@@ -3,7 +3,7 @@ import supervision as sv
 import cv2
 
 # Pick ONE:
-MODEL_PATH = r"weights/y11m_t0_960/best.ptt"
+MODEL_PATH = r"weights/y11m_t0_960/best.pt"
 
 model = YOLO(MODEL_PATH)
 

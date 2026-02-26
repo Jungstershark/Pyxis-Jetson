@@ -25,8 +25,8 @@ YOLOV11_MODELS = {
 
 # Your YOLOE checkpoints (open-vocab)
 YOLOE_MODELS = {
-    "yoloe_m": "weights/yoloe_m.pt",
-    "yoloe_l": "weights/yoloe_l.pt",
+    # "yoloe_m": "weights/yoloe_m.pt",
+    "yoloe_l": "weights/yoloe-11l-seg.pt",
     # example if you use the official checkpoint:
     # "yoloe_11l_seg": "yoloe-11l-seg.pt",
 }
